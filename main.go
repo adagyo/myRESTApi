@@ -2,9 +2,9 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/adagyo/myRESApi/entities"
-	"github.com/adagyo/myRESApi/fixtures"
-	"github.com/adagyo/myRESApi/utils"
+	"github.com/adagyo/myRESTApi/entities"
+	"github.com/adagyo/myRESTApi/fixtures"
+	"github.com/adagyo/myRESTApi/utils"
 	"github.com/gorilla/mux"
 	"gopkg.in/mgo.v2"
 	"log"

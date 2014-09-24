@@ -1,7 +1,7 @@
 package entities
 
 import (
-	"github.com/adagyo/myRESApi/utils"
+	"github.com/adagyo/myRESTApi/utils"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 	_ "log"

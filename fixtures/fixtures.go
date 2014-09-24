@@ -2,7 +2,7 @@ package fixtures
 
 import (
 	"fmt"
-	"github.com/adagyo/myRESApi/entities"
+	"github.com/adagyo/myRESTApi/entities"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 	"strconv"
